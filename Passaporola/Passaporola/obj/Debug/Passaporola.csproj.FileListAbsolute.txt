@@ -1,0 +1,10 @@
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\bin\Debug\Passaporola.exe.config
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\bin\Debug\Passaporola.exe
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\bin\Debug\Passaporola.pdb
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.csproj.AssemblyReference.cache
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.Form1.resources
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.Properties.Resources.resources
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.csproj.GenerateResource.cache
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.csproj.CoreCompileInputs.cache
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.exe
+C:\Users\iskit\Desktop\Udemy_Project\Passaporola\Passaporola\obj\Debug\Passaporola.pdb
